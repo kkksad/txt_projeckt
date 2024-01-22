@@ -1,4 +1,4 @@
-file = open('/Users/kirill/Documents/txt_projeckt/Perepis.txt', 'r')
+file = open('Perepis.txt', 'r')
 
 def task_a(file):
     count_more=0
